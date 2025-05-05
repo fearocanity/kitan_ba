@@ -1,0 +1,203 @@
+{"kitan_id":"kitan_rU6iH4HwnF3P","command":"!dl\n -e 11\n -f 4108\n -up"}
+{"kitan_id":"kitan_9xWlTULW9aOS","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\""}
+{"kitan_id":"kitan_R6aRiGLH2TwV","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\""}
+{"kitan_id":"kitan_D2lVy9M0ZxUB","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080] -st \"BUWOK%textsize:105%%strokewidth:5.0%%font:tdm%%annotate:+0,+90%\" --blur [radius:1,sigma:2]"}
+{"kitan_id":"kitan_ANFbY7ggkIfc","command":"!req --name \"quo69\" kitan_D2lVy9M0ZxUB"}
+{"kitan_id":"kitan_LOXmd2l8Ez7H","command":"!dl -e 10 -f 2858 --crop [x1:810,x2:1800,y1:0,y2:1080]"}
+{"kitan_id":"kitan_MLev7LMCMo03","command":"!dl -e op1re -f 288 -g 7"}
+{"kitan_id":"kitan_1qAAAe3PCuIw","command":"!dl -e 6 -f 4057 --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_I00s3MLyMEBF","command":"!dl -e 6 -f 4057 --append [filter:--url ibb:qMcMPdJP --swap] -st \"The PS5:%gravity:southwest%%annotate:+5,+5%%strokewidth:3.0%%textsize:65%\""}
+{"kitan_id":"kitan_eEDzkymtHyo2","command":"!dl -e 6 -f 4057 --append [filter:--url ibb:qMcMPdJP --swap] -st \"The PS5:%gravity:northwest%%annotate:+5,+5%%strokewidth:3.0%%textsize:65%\""}
+{"kitan_id":"kitan_9xtiIemc4KIz","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:northwest%%annotate:+5,+5%%strokewidth:3.0%%textsize:65%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_kvaynXslxHnl","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:southeast%%annotate:+5,+5%%strokewidth:3.0%%textsize:65%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_HGRcHsRp9c0F","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:west%%annotate:+5,+30%%strokewidth:3.0%%textsize:65%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_xCE0vwVhRa8r","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:west%%annotate:+30,+5%%strokewidth:3.0%%textsize:65%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_fRr6KzqMdvK5","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:+5,+30%%strokewidth:3.0%%textsize:65%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_swzhjOSSwpiB","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:+5,-30%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_8e1zQtWtLc5W","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-120,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_a5ILuA8LHJFj","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-455,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_fxzIWDny7nDo","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-500,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_LV0nGVahbENN","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-875,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_ZieNBT2WCKF7","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-800,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_7v1A3yxYkFof","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:3.0%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_o0Jy4FRrCFJu","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap]"}
+{"kitan_id":"kitan_4Z5lQylxKUdP","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.5,sigma:1.5]"}
+{"kitan_id":"kitan_H0iZ2vhAPfYj","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_pXpwuBQ9NaTC","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_tWfFZCLm9TKQ","command":"!req --name \"kikuripits\" kitan_pXpwuBQ9NaTC"}
+{"kitan_id":"kitan_i8Jbx6kOngC2","command":"!dl -e 9 -f 4441 -u"}
+{"kitan_id":"kitan_7xq0LlvmkHOF","command":"!dl -e 8 -f 4607 --append [filter:--url ibb:tML1hmMX]"}
+{"kitan_id":"kitan_zHMKoogOmQ1O","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] -g 8"}
+{"kitan_id":"kitan_FK31Lgw7kifZ","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] -g 15"}
+{"kitan_id":"kitan_FAusQ0ioe3eE","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:690,y2:{h}]"}
+{"kitan_id":"kitan_C2lRVFjpYqw4","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:710,y2:{h}]"}
+{"kitan_id":"kitan_uvn0VpCZwIXa","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}]"}
+{"kitan_id":"kitan_dzAQqrLuUxP5","command":"!dl -e 05 -f 4213 -g 8"}
+{"kitan_id":"kitan_fdhtHKAlDGTg","command":"!dl -e 11 -f 2356 -g 8"}
+{"kitan_id":"kitan_wh6kL1atGZOq","command":"!dl -e 09 -f 4297 -g 8"}
+{"kitan_id":"kitan_WL0UcUD0mB3E","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --size [width:500]]"}
+{"kitan_id":"kitan_2Jaf7EtBVPWl","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:825]]"}
+{"kitan_id":"kitan_ED8ZTRVq18sz","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:750]]"}
+{"kitan_id":"kitan_KVGnPvbq4NCX","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:675]]"}
+{"kitan_id":"kitan_UoH3yUJL7ftr","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:675]]"}
+{"kitan_id":"kitan_pXKMmTSb99Lq","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:645]]"}
+{"kitan_id":"kitan_dsAuVxcp7WsT","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615]]"}
+{"kitan_id":"kitan_CwSsjzdvE7le","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615]]"}
+{"kitan_id":"kitan_KAjYhPmU32Tx","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615]]"}
+{"kitan_id":"kitan_4YPipxMFEo6V","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+20,y:+0]]"}
+{"kitan_id":"kitan_XiWfdpq8of24","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:+0]]"}
+{"kitan_id":"kitan_ZxApYdka6ASO","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:+0]]"}
+{"kitan_id":"kitan_qFpwRXf389Tq","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:+0]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:1690] --size [width:615] --position [gravity:northwest,x:+35,y:+625]]"}
+{"kitan_id":"kitan_TKIrFOfEIjC2","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:+0]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:615] --position [gravity:northwest,x:+35,y:+590]]"}
+{"kitan_id":"kitan_OXiCnWzVOzek","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-20]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:625] --position [gravity:northwest,x:+30,y:+590]]"}
+{"kitan_id":"kitan_DzKrcGc9RtiI","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:640] --position [gravity:northwest,x:+30,y:+590]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:665] --position [gravity:northwest,x:+30,y:+1230]]"}
+{"kitan_id":"kitan_WKL3sllwbVZC","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:650] --position [gravity:northwest,x:+30,y:+590]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-10,y:+1230]]"}
+{"kitan_id":"kitan_WBk0CwULaZjt","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+25,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:650] --position [gravity:northwest,x:+30,y:+590]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-15,y:+1195]]"}
+{"kitan_id":"kitan_VUfCr2BtSVmx","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:650] --position [gravity:northwest,x:+25,y:+590]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1180]]"}
+{"kitan_id":"kitan_wbay4uGVIZGo","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:665] --position [gravity:northwest,x:+17,y:+590]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1150]]"}
+{"kitan_id":"kitan_wUSdEGT3pSQo","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:615] --position [gravity:northwest,x:+35,y:-65]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:675] --position [gravity:northwest,x:+10,y:+575]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1145]]"}
+{"kitan_id":"kitan_h97znCCQVCGm","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+30,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:675] --position [gravity:northwest,x:-5,y:+575]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1145]]"}
+{"kitan_id":"kitan_tJD8nqLK9tpn","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:680] --position [gravity:northwest,x:-10,y:+555]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]]"}
+{"kitan_id":"kitan_4ZpIseJuHnx8","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:690] --position [gravity:northwest,x:-10,y:+540]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]]"}
+{"kitan_id":"kitan_VNtsh0yTiyp7","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:690] --position [gravity:northwest,x:-10,y:+568]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]]"}
+{"kitan_id":"kitan_5NfGVbypVA0k","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:690] --position [gravity:northwest,x:-17,y:+568]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]] -g 15"}
+{"kitan_id":"kitan_iKAEwNyLzPvB","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] \n --crop [x1:0,x2:{w},y1:725,y2:{h}] \n --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] \n --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:690] --position [gravity:northwest,x:-17,y:+568]] \n  --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]] \n --crop [x1:45,x2:{w},y1:0,y2:{h}]"}
+{"kitan_id":"kitan_nZmYEw5O5Pw9","command":"!dl -e 1 -f 1 --append [filter:--url ibb:7JH4sZx7] --crop [x1:0,x2:{w},y1:725,y2:{h}] --append [filter:-e 9 -f 4297 -at ol --crop [x1:490,x2:1550,y1:0,y2:{h}] --size [width:625] --position [gravity:northwest,x:+38,y:-60]] --append [filter:-e 11 -f 2356 -at ol --crop [x1:515,x2:1200,y1:125,y2:690] --size [width:690] --position [gravity:northwest,x:-17,y:+568]] --append [filter:-e 5 -f 4213 -at ol --crop [x1:175,x2:975,y1:0,y2:{h}] --size [width:700] --position [gravity:northwest,x:-25,y:+1135]] --crop [x1:45,x2:{w},y1:0,y2:{h}]"}
+{"kitan_id":"kitan_pSiewBz671ud","command":"!dl -e 09 -f 2560 --append [filter:--url ibb:nM26TfbW --position [gravity:northwest,x:+60,y:+25]]"}
+{"kitan_id":"kitan_zIoF52Lx7NoO","command":"!dl -e 09 -f 2560 --append [filter:--url imgur:tXtP3Qe --position [gravity:northwest,x:+60,y:+25]]"}
+{"kitan_id":"kitan_1lCQCfPrkXQg","command":"!dl -e 09 -f 2560 --append [filter:--url imgur:tXtP3Qe --append-type overlay --position [gravity:northwest,x:+60,y:+25]]"}
+{"kitan_id":"kitan_oEGTNxNAXNQ1","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northwest,x:+60,y:+25] --size [width:120]]"}
+{"kitan_id":"kitan_jWM8xYWR31Wo","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northwest,x:+60,y:+25] --size [width:450]]"}
+{"kitan_id":"kitan_IH6TEKAxMvRL","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northwest,x:+85,y:+25] --size [width:450]]"}
+{"kitan_id":"kitan_gGR4ZChkoyt7","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northwest,x:+165,y:+25] --size [width:450]]"}
+{"kitan_id":"kitan_1FhWkV76TjHW","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northwest,x:+280,y:+25] --size [width:450]]"}
+{"kitan_id":"kitan_4wEMkWYSTSAq","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]]"}
+{"kitan_id":"kitan_52qz6IrQQMcw","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:tdm%\""}
+{"kitan_id":"kitan_kBCcLRQQrLyN","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:tdm%\" -g 10"}
+{"kitan_id":"kitan_Bbj61KvSIsSk","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:fts%\""}
+{"kitan_id":"kitan_AH6CDRKGzI0q","command":"!dl -e 09 -f 2560 --append [filter:--url \"https://i.imgur.com/bK4bJej.png\" --append-type overlay --position [gravity:northeast,x:+280,y:+25] --size [width:450]] -t \"Nawww why are they eating the decleration of independence😭%font:fts%\" --blur [radius:2.0,sigma:2.0]"}
+{"kitan_id":"kitan_bjDrR4QRr2fW","command":"!dl -e 6 -f 4057 -st \"The PS5:%gravity:north%%annotate:-750,+35%%strokewidth:4.2%%textsize:65%%font:tdm%\" --append [filter:--url ibb:qMcMPdJP --swap] --blur [radius:1.7,sigma:1.7]"}
+{"kitan_id":"kitan_tQ4fFMCk3lPz","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay]"}
+{"kitan_id":"kitan_oPItmVjUS4pY","command":"!dl -e 09 -f 3405 --append [filter:--url ibb:MkQVb2b9 --append-type overlay --size [width:1920]]"}
+{"kitan_id":"kitan_LbfHnDCffArp","command":"!dl -e 1 -f 1 -st \"Hello World, Test!\""}
+{"kitan_id":"kitan_qR8FfJBOiOzf","command":"!dl -e 1 -f 24"}
+{"kitan_id":"kitan_jGlNkZswtgAB","command":"!dl -e 1 -f 49 -u"}
+{"kitan_id":"kitan_KCT0kUexgLfy","command":"!dl -e 1 -f 72 -u"}
+{"kitan_id":"kitan_d4SlPByzVjER","command":"!dl -e 1 -f 153 -u"}
+{"kitan_id":"kitan_M5UBka7OMArU","command":"!dl -e 1 -f 168 -u"}
+{"kitan_id":"kitan_vpOl2BQNRgVj","command":"!dl -e 1 -f 162"}
+{"kitan_id":"kitan_Qrh2UvIPw7Q0","command":"!dl -e 1 -f 442 -u"}
+{"kitan_id":"kitan_8iogaWjzJcLS","command":"!dl -e 1 -f 744 -u"}
+{"kitan_id":"kitan_nMqBJW27fFEl","command":"!dl -e 1 -f 777"}
+{"kitan_id":"kitan_tcjmOo2sBVDA","command":"!dl -e 1 -f 777 -u"}
+{"kitan_id":"kitan_12lrQnMEfMRq","command":"!dl -e 1 -f 744 --rblur [radius:6]"}
+{"kitan_id":"kitan_vPzIVJ0aKMVp","command":"!dl -e 1 -f 785 --rblur [radius:4]"}
+{"kitan_id":"kitan_cdlleVSCwPlX","command":"!dl -e 1 -f 716 -u"}
+{"kitan_id":"kitan_vmNOfEAiFlbD","command":"!dl -e 1 -f 1369 -u\nGustavo Murillo Vega"}
+{"kitan_id":"kitan_rLy3JOPE4ri9","command":"!dl -e 1 -f 1369 -u \n# Gustavo Murillo Vega"}
+{"kitan_id":"kitan_6AvmUFVcXDhi","command":"!dl -e 1 -f 1536"}
+{"kitan_id":"kitan_RG40Cky0hetH","command":"!dl -e 1 -f 1536 -u"}
+{"kitan_id":"kitan_YPtcMsthdAQA","command":"!dl -e 1 -f 1582 -u"}
+{"kitan_id":"kitan_1uV2HTZ1BMXv","command":"!dl -e 1 -f 1961 --crop [x1:720,x2:1600,y1:0,y2:540] --rembg -up"}
+{"kitan_id":"kitan_kD9mQpib225a","command":"!dl -e 1 -f 2084"}
+{"kitan_id":"kitan_GIxtUEBuHXBd","command":"!dl -e 1 -f 2305 -u"}
+{"kitan_id":"kitan_Mo8UrYt883Tz","command":"!dl -e 1 -f 2502 -u"}
+{"kitan_id":"kitan_PLPNMzxvVzUZ","command":"!dl -e 1 -f 2045 -u"}
+{"kitan_id":"kitan_4vdRf65KwY0C","command":"!dl -e 1 -f 2198 -u"}
+{"kitan_id":"kitan_9vrf83zInWrE","command":"!dl -e 01 -f 2447"}
+{"kitan_id":"kitan_VHUq83VlcHrw","command":"!dl -e 01 -f 2781 -u"}
+{"kitan_id":"kitan_1ysCgCcfyRMz","command":"!dl -e 01 -f 2594 -u"}
+{"kitan_id":"kitan_wEGHhEjTP8Di","command":"!dl -e 01 -f 2585 -u"}
+{"kitan_id":"kitan_k6Y8BXzunhS4","command":"!dl -e 1 -f 2798 -u"}
+{"kitan_id":"kitan_vTzkkZL0LVK8","command":"!dl -e 1 -f 2813 -up"}
+{"kitan_id":"kitan_ByjOTXfxKGKZ","command":"!dl -e 01 -f 2917 -u"}
+{"kitan_id":"kitan_lUau4GY2SWXH","command":"!dl -e 01 -f 3062 -u"}
+{"kitan_id":"kitan_qjdp9oHpUv7M","command":"!dl -e 01 -f 3043 -u"}
+{"kitan_id":"kitan_9Txhdc4trrHA","command":"!dl -e 01 -f 3038 -u"}
+{"kitan_id":"kitan_6dO98do1091T","command":"!dl -e 01 -f 3036 -u"}
+{"kitan_id":"kitan_lopEcZkViPXn","command":"!dl -e 01 -f 3150 -u"}
+{"kitan_id":"kitan_3aRwB1fvmjqg","command":"!dl -e 01 -f 3664 -u"}
+{"kitan_id":"kitan_JOA8qQAUtwy3","command":"!dl -e 1 -f 3928 -u"}
+{"kitan_id":"kitan_v3vczIS6fQUs","command":"!dl -e 1 -f 4023 -u"}
+{"kitan_id":"kitan_vqcaIiJc9WxW","command":"!dl -e 01 -f 4076 -u"}
+{"kitan_id":"kitan_uqabH4OgrWEU","command":"!dl -e 01 -f 4138 -u"}
+{"kitan_id":"kitan_R7kdbj8Xkow8","command":"!dl -e 01 -f 4183 -u"}
+{"kitan_id":"kitan_ya15hXKlS27S","command":"!dl -e 01 -f 4295 -u"}
+{"kitan_id":"kitan_hTLiOp6yzn7f","command":"!dl -e 1 -f 4452 --rembg"}
+{"kitan_id":"kitan_SrkHDxmk8eqO","command":"!dl -e 1 -f 4452 -g 8"}
+{"kitan_id":"kitan_fRRpEc99FxVd","command":"!dl -e 1 -f 4452 --crop [x1:0,x2:810,y1:290,y2:1080] --rembg"}
+{"kitan_id":"kitan_pP4du4lG2FEI","command":"!dl -e 1 -f 4465 --rembg"}
+{"kitan_id":"kitan_bv8QnB0Wf2rr","command":"!dl -e 1 -f 4432 -u"}
+{"kitan_id":"kitan_fzIw88s21Sm6","command":"!dl -e 1 -f 4531 -u"}
+{"kitan_id":"kitan_HrIod0rfsw4t","command":"!dl -e 1 -f 4600 -u"}
+{"kitan_id":"kitan_VyKZF7R63nND","command":"!dl -e 1 -f 4791 -u"}
+{"kitan_id":"kitan_XLtxS9M58ZPF","command":"!dl -e 01 -f 4517 -u"}
+{"kitan_id":"kitan_x2RcWo2URJbC","command":"!dl -e 02 -f 10 -u"}
+{"kitan_id":"kitan_Ikffb7vYKpr1","command":"!dl -e 2 -f 120 -u"}
+{"kitan_id":"kitan_Rp27rskDZ4dV","command":"!dl -e 2 -f 69 -u"}
+{"kitan_id":"kitan_EIkbW4xKYXXJ","command":"!dl -e 2 -f 221 -u"}
+{"kitan_id":"kitan_BTFY9Ga4YKcc","command":"!dl -e 02 -f 350 -u"}
+{"kitan_id":"kitan_NpaG0qP7HQAe","command":"!dl -e 02 -f 295 -u"}
+{"kitan_id":"kitan_bUjplUWsyA7d","command":"!dl -e 02 -f 325 -u"}
+{"kitan_id":"kitan_a0ZWapkXh0k6","command":"!dl -e 02 -f 662 -g 8"}
+{"kitan_id":"kitan_TGobJRvJ1lYJ","command":"!dl -e 2 -f 662 -g 8"}
+{"kitan_id":"kitan_3Nnj35j01Y0M","command":"!dl -e 2 -f 662"}
+{"kitan_id":"kitan_52orR77kzQY7","command":"!dl -e 1 -f 662"}
+{"kitan_id":"kitan_JuhyFzgGl4Fm","command":"!dl -e 2 -f 622 -g 8"}
+{"kitan_id":"kitan_E6I6d2uK17FS","command":"!dl -e 2 -f 622 --crop [x1:850,x2:{w},y1:0,y2:{h}]"}
+{"kitan_id":"kitan_GlgtMyBc1SfR","command":"!dl -e 2 -f 622 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg"}
+{"kitan_id":"kitan_8iClmwOlRBrx","command":"!dl -e 2 -f 622 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
+{"kitan_id":"kitan_G9jCF53K1EcH","command":"!dl -e 2 -f 622 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
+{"kitan_id":"kitan_t7yUtdSSkk7Y","command":"!dl -e 2 -f 627 --crop [x1:875,x2:{w},y1:0,y2:{h}] --rembg -up"}
+{"kitan_id":"kitan_xzCnU0hWXjBv","command":"!dl -e 2 -f 749 -g 8"}
+{"kitan_id":"kitan_OUQjtctdwo6d","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450]"}
+{"kitan_id":"kitan_VZrshTwLlv6u","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:180]"}
+{"kitan_id":"kitan_C85ZfriweI6L","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:90]"}
+{"kitan_id":"kitan_Rd9MEK61XjdK","command":"!dl -e 2 -f 749 --crop [x1:1300,x2:{w},y1:0,y2:450] --rotate [angle:90] -u"}
+{"kitan_id":"kitan_hpdwNI07Abul","command":"!dl -e 2 -f 749 --crop [x1:1250,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_M2Yn27pUDDUX","command":"!dl -e 2 -f 749 --crop [x1:1175,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_M4QoZk9eBAhC","command":"!dl -e 2 -f 749 --crop [x1:1185,x2:{w},y1:0,y2:475] --rotate [angle:90]"}
+{"kitan_id":"kitan_bK9nflftPVyJ","command":"!dl -e 2 -f 749 --crop [x1:1185,x2:{w},y1:0,y2:485] --rotate [angle:90] -u"}
+{"kitan_id":"kitan_4uGG8SjR6ewZ","command":"!dl -e 2 -f 981 -up"}
+{"kitan_id":"kitan_AQ3m8SNNKuoL","command":"!dl -e 2 -f 981 -u"}
+{"kitan_id":"kitan_2r1UaQWrPU2W","command":"!dl -e 2 -f 1199 -u"}
+{"kitan_id":"kitan_f4WXRBPpvnwg","command":"!dl -e 2 -f 1470 -u"}
+{"kitan_id":"kitan_58UV2fnzD5Yg","command":"!dl -e 2 -f 1499 -g 8"}
+{"kitan_id":"kitan_AsIgEYsUlQVe","command":"!dl -e 2 -f 1499 --crop [x1:0,x2:975,y1:0,y2:{h}] -u"}
+{"kitan_id":"kitan_Q3ksc6U7WBhv","command":"!dl -e 2 -f 1592 -g 8"}
+{"kitan_id":"kitan_kwmUpYtONWmm","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%\""}
+{"kitan_id":"kitan_285iWrOiNokY","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:50%\""}
+{"kitan_id":"kitan_Td2LU5IvXsjp","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:5%\""}
+{"kitan_id":"kitan_QUkrcUq0EXSz","command":"!dl -e 2 -f 1592 --crop [x1:750,x2:1440,y1:500,y2:{h}] -st \"what is nijika up to?%font:tdm%%textsize:35%%strokewidth:3.5%\""}
+{"kitan_id":"kitan_Uz8KRCUriqTp","command":"!dl -f 1597 -e 02 -g 8"}
+{"kitan_id":"kitan_cdmSEXIBDGaM","command":"!dl -f 1597 -e 02 -g 10"}
+{"kitan_id":"kitan_ikTwigNpk8Gh","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg"}
+{"kitan_id":"kitan_lEqpGRuTxgu1","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg"}
+{"kitan_id":"kitan_2tOONtsjwtPy","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --append [--url ibb:k6JQ55hx --append-type overlay]"}
+{"kitan_id":"kitan_MrH9MbQBQaGi","command":"!dl -f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --append [--url ibb:k6JQ55hx --append-type bg]"}
+{"kitan_id":"kitan_6Sl3kYWJF1vl","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx --append-type bg]"}
+{"kitan_id":"kitan_u8xySnubCMYm","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx]"}
+{"kitan_id":"kitan_2yoExfv4QzQe","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx -at stick]"}
+{"kitan_id":"kitan_uVKpcsSkOCvE","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url https://i.ibb.co/DgY5zz7t/20250502-103311.jpg -at stick]"}
+{"kitan_id":"kitan_vDduvCFY7WUh","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url ibb:k6JQ55hx --size [h:1080] --swap]"}
+{"kitan_id":"kitan_WHDC4pscfbMJ","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url imgur:iyf7Ck8 --size [h:1080] --swap]"}
+{"kitan_id":"kitan_7XAbJRikfDyd","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_JP4hzJgRegrQ","command":"!dl -f 1597 -e 02 --append [--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_d8E9YN8UULJQ","command":"!dl -f 1597 -e 02 --append [--url imgur:iyf7Ck8 --size [h:1080]]"}
+{"kitan_id":"kitan_GUXtBeoffoq7","command":"!dl -f 1597 -e 02 --append [-f 1597 -e 2]"}
+{"kitan_id":"kitan_g4JEttCuLijY","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size [h:1080] -at ol]"}
+{"kitan_id":"kitan_ehgUEIhqX90W","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size [w:1920] -at ol]"}
+{"kitan_id":"kitan_6MyEjnelMkCq","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size h:1080 -at ol]"}
+{"kitan_id":"kitan_8mJs8r4arCBT","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 --size h:1080 -at ol]"}
+{"kitan_id":"kitan_LuP0DIw89EOw","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8]"}
+{"kitan_id":"kitan_EPW1Tyh7czbI","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick]"}
+{"kitan_id":"kitan_zrXkh7gyN6lv","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}]"}
+{"kitan_id":"kitan_CShr9O1BdX9u","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --append [f:-f 1597 -e 02 --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg]"}
+{"kitan_id":"kitan_SEne7hIXbgOl","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:2.1,sigma:2.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg]"}
+{"kitan_id":"kitan_zTtDej2YYjFn","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:2.1,sigma:2.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_6DEqhbFFxvDm","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_htsoZogJCrbr","command":"!dl -f 1597 -e 02 --crop [x1:0,x2:1440,y1:0,y2:1080] --append [f:--url imgur:iyf7Ck8 -at stick] --crop [x1:1440,x2:{w},y1:0,y2:{h}] --blur [radius:4.1,sigma:4.1] --append [f:-f 1597 -e 02 -at ol --crop [x1:600,x2:1344,y1:350,y2:{h}] --rembg --position [gravity:south,x:+0,y:+0]]"}
+{"kitan_id":"kitan_ql40NbSfwynb","command":"!dl -e 2 -f 1592 -u"}
+{"kitan_id":"kitan_ibeoo8v9mZlp","command":"!dl -e 02 -f 1732 --rembg"}
+{"kitan_id":"kitan_5XRGXNDAUvUV","command":"!dl -e 2 -f 1887 -u"}
+{"kitan_id":"kitan_whyW3v4krRUQ","command":"!dl -e 02 -f 1899 -u"}
